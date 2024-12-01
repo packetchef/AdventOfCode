@@ -1,0 +1,7 @@
+# env file
+.env
+
+# debugging
+__debug_bin
+.vscode
+
