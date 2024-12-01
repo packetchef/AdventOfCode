@@ -31,7 +31,7 @@ func main() {
 	fmt.Printf("Sum of list differences: %d\n", sumList(listDiffs))
 
 	listSims := getListSimilarity(acLists[0], acLists[1])
-	fmt.Printf("List similarities: %d\n", listSims)
+	//fmt.Printf("List similarities: %d\n", listSims)
 	fmt.Printf("Sum of list similarity: %d\n", sumList(listSims))
 
 }
